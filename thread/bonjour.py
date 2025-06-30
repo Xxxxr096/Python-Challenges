@@ -5,7 +5,7 @@ import time
 def dire_bonjour():
     for i in range(5):
         print("Bonjour")
-        time.sleep(3)
+        time.sleep(2)
 
 
 def dire_salut():
